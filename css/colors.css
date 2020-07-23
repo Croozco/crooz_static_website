@@ -18,7 +18,7 @@
 }
 
 .bt_main {
-    background: #1e72bc;
+    background: #ffb74d;//#1e72bc;
 }
 
 .bt_main:hover,
@@ -33,11 +33,11 @@
 
 .reverse_bt.bt_main:hover,
 .reverse_bt.bt_main:focus {
-    background: #1e72bc;
+    background:#ffb74d;// #1e72bc;
 }
 
 .white_bt.bt_main {
-    color: #1e72bc;
+    color: #ffb74d;//#1e72bc;
 }
 
 .white_bt.bt_main:hover, 
@@ -56,9 +56,9 @@ footer ul.social_icons li a:hover {
 -------------------------------------------------------------------*/
 
 .purple_theme ul.pagination li.page-item.active .page-link {
-	background: #1e72bc;
+	background: #ffb74d;//#1e72bc;
     color: #fff;
-    border-color: #1e72bc;
+    border-color:#ffb74d;// #1e72bc;
 }
 
 /*------------------------------------------------------------------
